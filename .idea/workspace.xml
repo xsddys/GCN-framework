@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dc7001e3-f892-417f-a325-645c7c7ecd21" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/ucla/default.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/ucla/default.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ntu/get_raw_denoised_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/data/ntu/get_raw_denoised_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ntu/get_raw_skes_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/data/ntu/get_raw_skes_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ntu/raw_data/frames_drop.log" beforeDir="false" afterPath="$PROJECT_DIR$/data/ntu/raw_data/frames_drop.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ntu/seq_transformation.py" beforeDir="false" afterPath="$PROJECT_DIR$/data/ntu/seq_transformation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ntu120/get_raw_denoised_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/data/ntu120/get_raw_denoised_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ntu120/get_raw_skes_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/data/ntu120/get_raw_skes_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ntu120/seq_transformation.py" beforeDir="false" afterPath="$PROJECT_DIR$/data/ntu120/seq_transformation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ensemble.py" beforeDir="false" afterPath="$PROJECT_DIR$/ensemble.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feeders/feeder_ucla.py" beforeDir="false" afterPath="$PROJECT_DIR$/feeders/feeder_ucla.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2tO1mJ2w2PWEpLuWKsKhdP4XdoT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/study material/scientific research/GCN/CTR-GCN",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.stylelint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.stylelint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-PY-242.20224.428" />
+        <option value="bundled-python-sdk-80e8e15d2b92-39cff9de6eef-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.20224.428" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="dc7001e3-f892-417f-a325-645c7c7ecd21" name="更改" comment="" />
+      <created>1740208465083</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1740208465083</updated>
+      <workItem from="1740208466286" duration="1674000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

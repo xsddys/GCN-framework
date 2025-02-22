@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: torchlight
+Version: 1.0
+Summary: A mini framework for pytorch
+Requires-Dist: numpy
+Requires-Dist: torch
+Requires-Dist: torchpack
+Requires-Dist: h5py
+Requires-Dist: pyyaml
